@@ -1,0 +1,53 @@
+.App {
+  background-color: black;
+  /*padding-top: 20px;*/
+  padding-bottom: 20px;
+}
+
+.game-controller{
+  width: 400px;
+  height: 600px;
+  background-color: white;
+  /*margin: 0 auto;*/
+  position: relative;
+  overflow: hidden;
+}
+
+.ball {
+	position: absolute;
+}
+
+.board {
+	position: absolute;
+	width: 200px;
+	height: 150px;
+	border: grey 5px solid;
+	top: 30px;
+	left: 100px;
+	z-index: 0;
+}
+
+.board-small {
+	position: absolute;
+	width: 60px;
+	height: 50px;
+	border: grey 5px solid;
+	top: 60px;
+	left: 65px;
+	z-index: 0;
+}
+
+.hoop {
+	width: 80px;
+	height: 5px;
+	position: relative;
+	background-color: red;
+	z-index: 2;
+}
+
+.score {
+	color: black;
+	position: relative;
+	left: 320px;
+	top: 5px;
+}
