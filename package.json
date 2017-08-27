@@ -2,7 +2,7 @@
   "name": "basketball",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://aviskarkc10.github.io/basketball-messenger",
+  "homepage" : "https://aviskarkc10.github.io/basketball-messenger",
   "dependencies": {
     "lint": "^1.1.2",
     "react": "^15.6.1",
