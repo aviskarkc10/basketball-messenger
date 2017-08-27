@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}.App{background-color:#000;padding-bottom:20px}.game-controller{width:400px;height:600px;background-color:#fff;position:relative;overflow:hidden}.ball{position:absolute}.board{width:200px;height:150px;top:30px;left:100px}.board,.board-small{position:absolute;border:5px solid grey;z-index:0}.board-small{width:60px;height:50px;top:60px;left:65px}.hoop{width:80px;height:5px;background-color:red;z-index:2}.hoop,.score{position:relative}.score{color:#000;left:320px;top:5px}
+/*# sourceMappingURL=main.19830227.css.map*/
